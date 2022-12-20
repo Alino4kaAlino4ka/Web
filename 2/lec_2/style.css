@@ -1,0 +1,45 @@
+p {
+    color: rgb(90, 14, 93);
+    text-align: center;
+    vertical-align: middle;
+    line-height: 20px;       /* The same as your div height */  
+  }
+
+html {
+    background-color: #ee88cc;
+    font-size: 15px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в
+   высоту */
+    font-family: 'Roboto', sans-serif;
+    }
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #f262df;
+    padding: 0 20px 20px 20px;
+    border: 1px solid white;
+    }
+
+h1 {
+    color: #19b0de
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 2px 2px 1px white;
+    text-align: center;
+   }
+
+h2 {
+    text-align: right;
+    color: #8d0659
+    }
+
+img {
+    display: block;
+    margin: 0 auto;
+    }
+
+
+
+
+
+
