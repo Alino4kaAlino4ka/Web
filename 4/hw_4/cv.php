@@ -190,9 +190,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: 'Jost', sans-serif;}
 
 <div class="w3-container">
 
-<h5 class="w3-opacity"><b>$expirience[exp_name][0] </b></h5>
+<h5 class="w3-opacity"><b><?php echo $expirience[exp_name][0]; ?></b></h5>
 
-<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>$expirience[exp_date][0]</h6>
+<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i><?php echo $expirience[exp_date][0]; ?></h6>
 
 <p>Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
 
@@ -203,9 +203,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: 'Jost', sans-serif;}
 <div class="w3-container">
 
 <h5 class="w3-opacity"><b>
-<h5 class="w3-opacity"><b>$expirience[exp_name][1]</b></h5>
+<h5 class="w3-opacity"><b><?php echo $expirience[exp_name][1]; ?></b></h5>
 
-<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>$expirience[exp_date][1]</h6>
+<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i><?php echo $expirience[exp_date][1]; ?></h6>
 
 <p>Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
 
@@ -215,9 +215,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: 'Jost', sans-serif;}
 
 <div class="w3-container">
 
-<h5 class="w3-opacity"><b>$expirience[exp_name][2]</b></h5>
+<h5 class="w3-opacity"><b><?php echo $expirience[exp_name][2]; ?></b></h5>
 
-<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>$expirience[exp_date][2]</h6>
+<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i><?php echo $expirience[exp_date][2]; ?></h6>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p><br>
 
@@ -231,9 +231,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: 'Jost', sans-serif;}
 
 <div class="w3-container">
 
-<h5 class="w3-opacity"><b>$expirience[exp_name][3]</b></h5>
+<h5 class="w3-opacity"><b><?php echo $expirience[exp_name][3]; ?></b></h5>
 
-<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>$expirience[exp_date][3]</h6>
+<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i><?php echo $expirience[exp_date][3]; ?></h6>
 
 <p>Web Development! All I need to know in one place</p>
 
@@ -243,9 +243,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: 'Jost', sans-serif;}
 
 <div class="w3-container">
 
-<h5 class="w3-opacity"><b>$expirience[exp_name][4]</b></h5>
+<h5 class="w3-opacity"><b><?php echo $expirience[exp_name][4]; ?></b></h5>
 
-<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>$expirience[exp_date][4]</h6>
+<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i><?php echo $expirience[exp_date][4]; ?></h6>
 
 <p>Master Degree</p>
 
@@ -255,9 +255,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: 'Jost', sans-serif;}
 
 <div class="w3-container">
 
-<h5 class="w3-opacity"><b>$expirience[exp_name][5]</b></h5>
+<h5 class="w3-opacity"><b><?php echo $expirience[exp_name][5]; ?></b></h5>
 
-<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>$expirience[exp_date][5]</h6>
+<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i><?php echo $expirience[exp_date][5]; ?></h6>
 
 <p>Bachelor Degree</p><br>
 
