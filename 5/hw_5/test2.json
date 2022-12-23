@@ -1,0 +1,29 @@
+[
+	{
+
+		"surname": "Иванов",
+
+		"name": "Иван",
+
+		"patronymic": "Иванович",
+
+		"birthdate": {
+			"day": 1,
+			"mounts": 1,
+			"year": 1990
+			},
+
+		"birthplace": "Москва",
+
+		"phone": {
+			"location": 8,
+			"operator": 926,
+			"number": 7664848
+			}
+	}
+]
+
+
+
+
+
